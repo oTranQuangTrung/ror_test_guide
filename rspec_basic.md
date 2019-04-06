@@ -1,3 +1,5 @@
+> http://tech.zigexn.vn/web%20development/2016/rspec-co-ban
+
 Đa phần các lập trình viên thường chỉ lo viết code mà ít ai chú ý đến việc viết test cho những đoạn code mà mình vừa viết ra. Điều này có thể làm bạn cảm thấy không thành vấn đề khi bạn làm việc một mình, nhưng khi bạn làm việc với những lập trình viên khác, với những dự án lớn hơn, nhiều chức năng phức tạp thì chắc chắn việc không kiểm soát được code của mình sẽ gây ra nhiều vấn đề khiến bạn đau đầu.
 
 Một khi bạn dành nhiều thời gian để viết test thật cẩn thận thì sau này khi bạn refactor code sẽ dễ dàng hơn rất nhiều, đồng thời giảm thiểu được bugs của ứng dụng do đó sẽ nâng cao được chất lượng sản phẩm và tiết kiệm được rất nhiều thời gian để test lại khi bạn nâng cấp hoặc bổ sung thêm chức năng cho ứng dụng về sau.
